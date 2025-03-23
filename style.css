@@ -1,7 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
 .text{
   text-align:center;
   color: #fcf6e5;
+  font-family: "Lora", serif;
 }
 .pozadi{
  background-color: #143745;
+ color: #586E75;
+}
+.tlacitko{
+ color: #fcf6e5;
+background-color: #586E75;
+border: none;
+border-radius: 3px;
+padding: 5px 10px;
+position:absolute;
+right: 10px;
+top: 10px;
+font-size: 25px;
 }
