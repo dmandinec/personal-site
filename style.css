@@ -8,17 +8,6 @@
  background-color: #143745;
  color: #586E75;
 }
-.tlacitko{
- color: #fcf6e5;
-background-color: #586E75;
-border: none;
-border-radius: 3px;
-padding: 5px 10px;
-position:absolute;
-right: 10px;
-top: 10px;
-font-size: 25px;
-}
 
 #lang-toggle {
  color: #fcf6e5;
@@ -29,4 +18,5 @@ font-size: 25px;
  position: absolute;
  right: 10px;
  top: 10px;
- font-size: 25px;}
+ font-size: 25px;
+}
