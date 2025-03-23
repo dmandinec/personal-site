@@ -2,7 +2,7 @@ const translations = {
  cs: {
    title: "Osobní stránka",
    description: "Moje jméno je <strong>Daniel Mandinec</strong><br>",
-   school: "Jsem studentem 1.KŠPA Praha už 4. roky(dlouhá doba)",
+   school: "Jsem studentem 1.KŠPA Praha už 4 roky(dlouhá doba)",
    finalExam: "Maturitní zkoušky budu skládát v roce 2025",   
    button: "🇬🇧"
  },
