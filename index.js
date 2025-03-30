@@ -1,5 +1,6 @@
 const translations = {
  cs: {
+  nadpiss: "Domovská stránka",
    title: "Osobní stránka",
    description: "Moje jméno je <strong>Daniel Mandinec</strong>",
    school: "Jsem studentem 1.KŠPA Praha už 4 roky(dlouhá doba)",
@@ -7,6 +8,7 @@ const translations = {
    button: "🇬🇧"
  },
  en: {
+  nadpiss: "Home Page",
    title: "Personal Page",
    description: "My name is <strong>Daniel Mandinec</strong>.",
    school: "I have been a student at 1st KŠPA Prague for 4 years (a while)",
@@ -18,6 +20,7 @@ const translations = {
 // Function to set the language for the page
 function setLanguage(lang) {
  document.documentElement.lang = lang;
+ document.getElementById("nadpiss").innerHTML = translations[lang].nadpiss;
  document.getElementById("nadpis").innerHTML = translations[lang].title;
  document.getElementById("oMe").innerHTML = translations[lang].description;
  document.getElementById("skola").innerHTML = translations[lang].school;

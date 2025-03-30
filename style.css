@@ -20,3 +20,7 @@
  top: 10px;
  font-size: 25px;
 }
+img {
+  vertical-align: middle;
+  margin-right: 10px;
+}
