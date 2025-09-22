@@ -5,7 +5,7 @@ const translations = {
    whoami: "Moje jméno je <strong>Daniel Mandinec</strong>",
    secondarySchool: "Byl jsem studentem <strong>1.KŠPA Praha</strong> (2021-2025).",
    highSchool: "A nyní studuji na <strong>Vyšší odborné škole informačních studií</strong> (2025-dosud).",
-   finalExam: "Maturitní zkoušku zkoušku jsem složil v roce 2025",   
+   finalExam: "Maturitní zkoušku jsem složil v roce 2025",   
    button: "🇬🇧"
  },
 english: {
